@@ -29,7 +29,7 @@ Had 5+ stars and 90+ forks, please dont forget to give star before forking.ğŸ™ğ
 ```
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XeonOP/DogeBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
